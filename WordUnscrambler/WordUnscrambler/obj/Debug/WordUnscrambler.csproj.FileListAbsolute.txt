@@ -1,0 +1,6 @@
+c:\users\evaldas-pc\documents\visual studio 2017\Projects\WordUnscrambler\WordUnscrambler\bin\Debug\WordUnscrambler.exe.config
+c:\users\evaldas-pc\documents\visual studio 2017\Projects\WordUnscrambler\WordUnscrambler\bin\Debug\WordUnscrambler.exe
+c:\users\evaldas-pc\documents\visual studio 2017\Projects\WordUnscrambler\WordUnscrambler\bin\Debug\WordUnscrambler.pdb
+c:\users\evaldas-pc\documents\visual studio 2017\Projects\WordUnscrambler\WordUnscrambler\obj\Debug\WordUnscrambler.csprojResolveAssemblyReference.cache
+c:\users\evaldas-pc\documents\visual studio 2017\Projects\WordUnscrambler\WordUnscrambler\obj\Debug\WordUnscrambler.exe
+c:\users\evaldas-pc\documents\visual studio 2017\Projects\WordUnscrambler\WordUnscrambler\obj\Debug\WordUnscrambler.pdb

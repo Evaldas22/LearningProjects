@@ -1,0 +1,59 @@
+﻿@model Vidbit.ViewModels.CustomerFormViewModel
+@{
+    ViewBag.Title = "New";
+}
+
+<h2>New Customer</h2>
+
+@*Here we use 'using' statement which automatically closes form for us.
+  Anything in this block will be redered like so <form>....</form>*@
+@using(Html.BeginForm("Save", "Customers"))
+{
+    @Html.ValidationSummary(false, "Please fill in the necessary blanks.")
+    @*First argument is to hide properties errors or no. Second - what to write instead of them or if false, above them*@
+    <div class="form-group">
+        @Html.LabelFor(c => c.Customer.Name)
+        @Html.TextBoxFor(c => c.Customer.Name, new { @class = "form-control"})
+        @Html.ValidationMessageFor(c => c.Customer.Name)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(c => c.Customer.MembershipTypeId)
+        @Html.DropDownListFor(c => c.Customer.MembershipTypeId, new SelectList(Model.MembershipTypes, "Id", "Name"), "Select Membership Type", new { @class = "form-control" })
+        @*So the trick here is that I need to assign MembershipTypeId. So I will generate a list of all types in drop down
+            and then the first argument after list of values will mean what value I will return from that list item.
+            As we need the id of membership type, the property which holds that value is "Id". 
+            Then I'll need to specify what name each list item will have and since we want- monthly, anuall... we will choose
+            property which holds that value - "Name"
+            Drop down menu:
+            (Value that will be returned) (Name of that item)
+                        1                   Pay as you go
+                        2                      Monthly
+        *@
+        @Html.ValidationMessageFor(c => c.Customer.MembershipTypeId)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(c => c.Customer.Birthday)
+        @Html.TextBoxFor(c => c.Customer.Birthday, "{0:yyyy-MMM-d}", new { @class = "form-control" })
+        @Html.ValidationMessageFor(c => c.Customer.Birthday)
+    </div>
+    <div class="checkbox">
+        <label>
+            @Html.CheckBoxFor(c => c.Customer.IsSubscribedToNewsletter) Subscribe to newsletter?
+        </label>
+    </div>
+
+    @Html.HiddenFor(c => c.Customer.Id)
+    @Html.AntiForgeryToken()
+    @*This is a hidden field, which value is long string(key). This key is also saved in cookies, but encrypted
+      Then when request comes to server it'll automatically compare both keys, stored in cookies and in token.
+      So hacker might steel cookies, but without token value, he won't be able to do a shit.
+      Also need to add [ValidateAntiForgeryToken] above POST method*@
+    <button type="submit" class="btn btn-primary">Save</button>
+}
+
+@section scripts
+{
+    @Scripts.Render("~/bundles/jqueryval")
+}
+

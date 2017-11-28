@@ -1,0 +1,15 @@
+C:\Users\EVALDAS-PC\Documents\Visual Studio 2017\Projects\WordUnscrambler\WordUnscrambler.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\EVALDAS-PC\Documents\Visual Studio 2017\Projects\WordUnscrambler\WordUnscrambler.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\EVALDAS-PC\Documents\Visual Studio 2017\Projects\WordUnscrambler\WordUnscrambler.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\EVALDAS-PC\Documents\Visual Studio 2017\Projects\WordUnscrambler\WordUnscrambler.Test.Unit\bin\Debug\WordUnscrambler.Test.Unit.dll
+C:\Users\EVALDAS-PC\Documents\Visual Studio 2017\Projects\WordUnscrambler\WordUnscrambler.Test.Unit\bin\Debug\WordUnscrambler.Test.Unit.pdb
+C:\Users\EVALDAS-PC\Documents\Visual Studio 2017\Projects\WordUnscrambler\WordUnscrambler.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\EVALDAS-PC\Documents\Visual Studio 2017\Projects\WordUnscrambler\WordUnscrambler.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\EVALDAS-PC\Documents\Visual Studio 2017\Projects\WordUnscrambler\WordUnscrambler.Test.Unit\bin\Debug\WordUnscrambler.exe
+C:\Users\EVALDAS-PC\Documents\Visual Studio 2017\Projects\WordUnscrambler\WordUnscrambler.Test.Unit\bin\Debug\WordUnscrambler.pdb
+C:\Users\EVALDAS-PC\Documents\Visual Studio 2017\Projects\WordUnscrambler\WordUnscrambler.Test.Unit\bin\Debug\WordUnscrambler.exe.config
+C:\Users\EVALDAS-PC\Documents\Visual Studio 2017\Projects\WordUnscrambler\WordUnscrambler.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\EVALDAS-PC\Documents\Visual Studio 2017\Projects\WordUnscrambler\WordUnscrambler.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\EVALDAS-PC\Documents\Visual Studio 2017\Projects\WordUnscrambler\WordUnscrambler.Test.Unit\obj\Debug\WordUnscrambler.Test.Unit.csprojResolveAssemblyReference.cache
+C:\Users\EVALDAS-PC\Documents\Visual Studio 2017\Projects\WordUnscrambler\WordUnscrambler.Test.Unit\obj\Debug\WordUnscrambler.Test.Unit.dll
+C:\Users\EVALDAS-PC\Documents\Visual Studio 2017\Projects\WordUnscrambler\WordUnscrambler.Test.Unit\obj\Debug\WordUnscrambler.Test.Unit.pdb

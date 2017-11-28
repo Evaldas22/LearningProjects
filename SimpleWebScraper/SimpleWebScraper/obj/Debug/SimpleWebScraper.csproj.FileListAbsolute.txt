@@ -1,0 +1,6 @@
+C:\Users\EVALDAS-PC\Documents\Visual Studio 2017\Projects\SimpleWebScraper\SimpleWebScraper\obj\Debug\SimpleWebScraper.csprojResolveAssemblyReference.cache
+C:\Users\EVALDAS-PC\Documents\Visual Studio 2017\Projects\SimpleWebScraper\SimpleWebScraper\bin\Debug\SimpleWebScraper.exe.config
+C:\Users\EVALDAS-PC\Documents\Visual Studio 2017\Projects\SimpleWebScraper\SimpleWebScraper\bin\Debug\SimpleWebScraper.exe
+C:\Users\EVALDAS-PC\Documents\Visual Studio 2017\Projects\SimpleWebScraper\SimpleWebScraper\bin\Debug\SimpleWebScraper.pdb
+C:\Users\EVALDAS-PC\Documents\Visual Studio 2017\Projects\SimpleWebScraper\SimpleWebScraper\obj\Debug\SimpleWebScraper.exe
+C:\Users\EVALDAS-PC\Documents\Visual Studio 2017\Projects\SimpleWebScraper\SimpleWebScraper\obj\Debug\SimpleWebScraper.pdb

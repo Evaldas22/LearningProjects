@@ -1,0 +1,6 @@
+C:\Users\EVALDAS-PC\Desktop\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.exe.config
+C:\Users\EVALDAS-PC\Desktop\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.exe
+C:\Users\EVALDAS-PC\Desktop\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.pdb
+C:\Users\EVALDAS-PC\Desktop\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.csprojResolveAssemblyReference.cache
+C:\Users\EVALDAS-PC\Desktop\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.exe
+C:\Users\EVALDAS-PC\Desktop\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.pdb
